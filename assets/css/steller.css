@@ -11758,7 +11758,7 @@ pre {
     border-right: 0;
   }
   .contact .contact-infos {
-    display: none;
+    display: block;
   }
 }
 
